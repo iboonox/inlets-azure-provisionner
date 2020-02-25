@@ -6,7 +6,9 @@ https://github.com/inlets/cloud-provision-example
 ### Architechture
 
 Localhost > inlets proxy > exit node ( cloud ) 
+
 RPI > inlets proxy > exit node ( cloud )
+
 Localhost -> Edge gateway : rpi + inlets proxy > Cloud : inlets exit node ( vm )
 
 ### Authentification 
