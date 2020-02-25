@@ -44,6 +44,6 @@ A terraform implementation [here](https://github.com/iboonox/azure-inlets/tree/m
 - [x] Provision exit node
 - [ ] Delete exit node
 - [ ] List exit nodes
-- [ ] Authentification enhancements ( Environment variables instead of File-based )
+- [x] Authentification enhancements ( Environment variables instead of File-based )
 - [ ] Handle different scenarios : existing resource group, existing vnet ...
-- [ ] Upgrade to go modules
+- [ ] Upgrade to go modules ( Azure recommend dep )
