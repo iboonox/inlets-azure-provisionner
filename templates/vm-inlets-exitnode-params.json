@@ -1,0 +1,35 @@
+{
+    "virtualNetworks_GoQSVM_vnet_name": {
+        "value": "InletsVnet"
+    },
+    "virtualMachines_InletsVM_name": {
+        "value": "InletsVM"
+    },
+    "networkInterfaces_Inletsvm_name": {
+        "value": "InletsNIC"
+    },
+    "publicIPAddresses_InletsVM_ip_name": {
+        "value": "InletsIP"
+    },
+    "networkSecurityGroups_InletsVM_nsg_name": {
+        "value": "InletsNSG"
+    },
+    "subnets_default_name": {
+        "value": "InletsSubnet"
+    },
+    "securityRules_default_allow_ssh_name": {
+        "value": "qsuser"
+    },
+    "osDisk_name": {
+        "value": "_OsDisk_1_2e3ae1ad37414eaca81b432401fcdd75"
+    },
+    "vm_user": {
+        "value": "Inlets"
+    },
+    "vm_password": {
+        "value": "_"
+    },
+    "customData": {
+        "value": "echo inlet user data"
+    }
+}
